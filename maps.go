@@ -6,7 +6,7 @@ func main(){
 	info := map[string]int{
 		"rosh": 20,
 		"avinash": 21,
-		"dorito": 2,
+		"dorito": 5,
 		"bhuvaan": 19,
 	}
 
